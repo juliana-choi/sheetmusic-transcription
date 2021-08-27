@@ -1,0 +1,6 @@
+Hi team, good decissions regarding your data rep.
+The method you described sounds reasonable. However, 
+I'm really concerned that you have not started training any
+model yet. Please start on this ASAP as it may bring new challenges.
+I would suggest you put more attention on your model than UI, at least for now
+until you have a working version of your model.

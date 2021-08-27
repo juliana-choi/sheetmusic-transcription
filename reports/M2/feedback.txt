@@ -1,0 +1,16 @@
+Hi team, good progress. I understand that your project is a challenging 
+one and you are doing well in terms of researching. But keep in 
+mind that clock is ticking so you need to start implementing and testing with a 
+neural network soon. Since your project is challenging, don't forget to break it 
+down into easier tasks. For example, predicting the notes as a one hot encoded 
+vector seems reasonable. Converting the predicted notes to a music sheet can 
+then be done as a non-ML component. 
+Converting audio to pictures and using an already designed convolutional NN 
+such as ResNet seems like a reasonable thing to try as well. However, due to the 
+sequential nature of musics, I can see why a recurrent network might be combined
+to improve the result once you got the first network running.
+One important part of your project would be the loss function. Don't forget to 
+invest some time into researching what loss function would be reasonable 
+for this task.
+Lastly, if you had a hard time thinking what should be the next step, feel free ask for a meeting with TAs on Piazza and we will try to help
+
